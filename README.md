@@ -20,6 +20,6 @@ Ajouter un checkbox pour activer/désactiver l’effet loop.
 Ajouter une seekBar permettant de se déplacer dans la chanson.
 
 ## Documenation :
-* [mediaplayer](https://developer.android.com/guide/topics/media/mediaplayer)
-* [media-apps-overview](https://developer.android.com/guide/topics/media-apps/media-apps-overview)
-* [MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer)
+* [MediaPlayer overview](https://developer.android.com/guide/topics/media/mediaplayer)
+* [MediaPlayer class](https://developer.android.com/reference/android/media/MediaPlayer)
+* [Media app architecture overview](https://developer.android.com/guide/topics/media-apps/media-apps-overview)
