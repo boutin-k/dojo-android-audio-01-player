@@ -14,16 +14,16 @@ Faire un layout contenant 3 boutons :
 > Le lecteur doit être initialisé avec prepareAsync()
 > La permission INTERNET doit être ajoutée dans le fichier AndroidManifest.xml
 
-Bonus : 
+Bonus
 Lorque la chanson est finie elle redémarre (effet loop).
 Ajouter un checkbox pour activer/désactiver l’effet loop.
 Ajouter une seekBar permettant de se déplacer dans la chanson.
 
-## Documentation :
+## Documentation
 * [MediaPlayer overview](https://developer.android.com/guide/topics/media/mediaplayer)
 * [MediaPlayer class](https://developer.android.com/reference/android/media/MediaPlayer)
 * [Media app architecture overview](https://developer.android.com/guide/topics/media-apps/media-apps-overview)
 
 
-## TD suivant :
+## TD suivant
 * [Audio Manager](https://github.com/boutin-k/dojo-android-audio-02-manager)
