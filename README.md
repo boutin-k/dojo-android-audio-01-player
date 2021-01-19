@@ -19,7 +19,11 @@ Lorque la chanson est finie elle redémarre (effet loop).
 Ajouter un checkbox pour activer/désactiver l’effet loop.
 Ajouter une seekBar permettant de se déplacer dans la chanson.
 
-## Documenation :
+## Documentation :
 * [MediaPlayer overview](https://developer.android.com/guide/topics/media/mediaplayer)
 * [MediaPlayer class](https://developer.android.com/reference/android/media/MediaPlayer)
 * [Media app architecture overview](https://developer.android.com/guide/topics/media-apps/media-apps-overview)
+
+
+## TD suivant :
+* [Audio Manager](https://github.com/boutin-k/dojo-android-audio-02-manager)
